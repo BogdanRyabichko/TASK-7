@@ -1,6 +1,6 @@
-<img width="1232" height="384" alt="image" src="https://github.com/user-attachments/assets/1ee85638-e957-4474-bfa6-255812f469f7" /><img width="1232" height="384" alt="image" src="https://github.com/user-attachments/assets/d25568af-8237-4354-95ff-8bbc8439a971" />ТЕМА 1
 
-ЗАДАНИЕ 1                                                                                                            void main() {
+ЗАДАНИЕ 1                                                                                                           
+  void main() {
  
   print(convertCurrency(10000, 90.5)); 
   print(convertCurrency(5000, 92.25)); 
@@ -507,8 +507,7 @@ void main() {
   print(convertBytesToMb(1572864)); // 1.5
   print(convertBytesToMb(5000000)); // 4.8
 }
-![Uploading image.png…]()
-
+<img width="1236" height="372" alt="image" src="https://github.com/user-attachments/assets/e3e49b26-fbc7-47a0-a080-1bd6cffdf9c7" />
 
 
 
@@ -521,7 +520,8 @@ void main() {
   print(calculateProgress(5, 10)); // 0.5
   print(calculateProgress(15, 10)); // 1.0
 }
-![Uploading image.png…]()
+<img width="1280" height="444" alt="image" src="https://github.com/user-attachments/assets/2fc454d7-c726-4086-8467-d1de4c29b560" />
+
 
 
 задание 7 int roundUpToNearestTen(int number) {
@@ -533,4 +533,4 @@ void main() {
   print(roundUpToNearestTen(40)); // 40
   print(roundUpToNearestTen(41)); // 50
 }
-![Uploading image.png…]()
+<img width="1252" height="480" alt="image" src="https://github.com/user-attachments/assets/102edd36-1083-43a6-a133-314ca165d30c" />
